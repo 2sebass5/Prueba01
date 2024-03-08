@@ -17,3 +17,6 @@ este es mi segundo **parrafo**
 1. HTML
 2. CSS
 3. JavaScript
+
+
+AUTOR: JuanSe
