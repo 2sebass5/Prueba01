@@ -20,3 +20,5 @@ este es mi segundo **parrafo**
 
 
 AUTOR: JuanSe
+
+linea escrita desde mi vscode local
